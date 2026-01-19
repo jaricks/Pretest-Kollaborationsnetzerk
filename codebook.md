@@ -3,11 +3,9 @@
 ## Edgelist (Edge-Attribute)
 
 ### from
-
 Songs (Sender einer Beziehung:  Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort)
 
 ### to
-
 Akteure (Empfänger: Entspricht ID in der Nodelist. Keine Sonderzeichen, etc.)
 
 ### year
