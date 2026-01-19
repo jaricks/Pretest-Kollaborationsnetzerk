@@ -9,11 +9,9 @@ Songs (Sender einer Beziehung:  Entspricht ID in der Nodelist. Keine Sonderzeich
 Akteure (Empfänger: Entspricht ID in der Nodelist. Keine Sonderzeichen, etc.)
 
 ### year
-
 welches Chartjahr (definiert einen Zeitraum, in dem die Beziehung zwischen zwei Knoten stattgefunden hat)
 
 ### edge_role
-
 NUR BEI type=2 (sonst NA); definiert die Art des Akteurs
 
 
